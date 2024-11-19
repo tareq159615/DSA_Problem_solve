@@ -1,0 +1,2 @@
+Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+youtube: https://www.youtube.com/watch?v=37E9ckMDdTk&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=19
