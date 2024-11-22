@@ -1,0 +1,2 @@
+problem link : > https://leetcode.com/problems/maximum-subarray/description/
+video link > https://www.youtube.com/watch?v=AHZpyENo7k4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=25

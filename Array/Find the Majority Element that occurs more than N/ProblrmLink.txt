@@ -1,0 +1,2 @@
+yt => https://www.youtube.com/watch?time_continue=13&v=nP_ns3uSh80&embeds_referring_euri=https%3A%2F%2Ftakeuforward.org%2F&source_ve_path=Mjg2NjQsMjM4NTE
+https://leetcode.com/problems/majority-element/description/
