@@ -1,0 +1,2 @@
+problem link > https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+video > https://youtu.be/excAOvwF_Wk
